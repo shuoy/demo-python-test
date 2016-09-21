@@ -1,3 +1,4 @@
+tox==2.3.1
 Flask==0.10.1
 Flask-Bootstrap==2.3.2.2
 Flask-WTF==0.9.1

@@ -6,7 +6,7 @@ bootstrap = Bootstrap(app)
 @app.route('/')
 def index():
     # return '<h1>Hello World!</h1>'
-    return render_template('index.html', name = "EA Players")
+    return render_template('index.html', name = "There")
 
 @app.route('/index/<name>')
 def hello(name):
